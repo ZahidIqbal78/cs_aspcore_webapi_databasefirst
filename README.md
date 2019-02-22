@@ -6,8 +6,13 @@ Adventure Works 2017 database is being used.
 
 ### How to create the DbContext and Models from Existing Database
 
-In this solution, a separate class library project (.NET Core) is used to store the model and DbContext. To generate or reverse engineer the model, install EntityFrameworkCore using Nuget Package Manager. Once installed, install the sql server database provider using the package manager console. 
+In this solution, a separate class library project (.NET Core) is used to store the model and DbContext. To generate or reverse engineer the model, install EntityFrameworkCore using Nuget Package Manager. Once installed, install the sql server database provider using the package manager console.
 
+```
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 2.2.2
+```
+
+Then scaffold the models using the following:
 ```
 Scaffold-DbContext "Server=[server];Database=[database_name];Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir [output_folder_name]
 ```
