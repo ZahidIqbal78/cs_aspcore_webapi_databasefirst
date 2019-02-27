@@ -1,0 +1,14 @@
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\bin\Debug\netcoreapp2.1\web.api.deps.json
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\bin\Debug\netcoreapp2.1\web.api.runtimeconfig.json
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\bin\Debug\netcoreapp2.1\web.api.runtimeconfig.dev.json
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\bin\Debug\netcoreapp2.1\web.api.dll
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.csprojAssemblyReference.cache
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.csproj.CoreCompileInputs.cache
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.RazorAssemblyInfo.cache
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.RazorAssemblyInfo.cs
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.AssemblyInfoInputs.cache
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.AssemblyInfo.cs
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.RazorTargetAssemblyInfo.cache
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\bin\Debug\netcoreapp2.1\web.api.pdb
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.dll
+D:\WORKSTATION\Github\cs_aspcore_webapi_databasefirst\cs_aspcore_webapi\web.api\obj\Debug\netcoreapp2.1\web.api.pdb
